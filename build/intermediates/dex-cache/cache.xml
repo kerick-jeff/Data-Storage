@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/kerick/AndroidStudioProjects/Group2-DataStorage/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0c552eabd9aefb70259f53df3c3032d6d17916c8">
+        <dex dex="/home/kerick/AndroidStudioProjects/Group2-DataStorage/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_def217855e6b10b749b53095c2d0ad997888819b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kerick/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.1/support-annotations-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a09194311f8f89c3e6db09d79f50897a889d615e">
+        <dex dex="/home/kerick/AndroidStudioProjects/Group2-DataStorage/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.1_6f44508425bc5f53172f7a3a7076ccc8b7dd596a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kerick/AndroidStudioProjects/Group2-DataStorage/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a8a3aeba43c3d9ba64d1e797fdcf4c4b6294853b">
+        <dex dex="/home/kerick/AndroidStudioProjects/Group2-DataStorage/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_cb5ecd0d7bcde1cd55485bc7458b6da3b180ea3b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kerick/AndroidStudioProjects/Group2-DataStorage/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c0bd6ffb002a85b5e7cad29f8558d1cc59539679">
+        <dex dex="/home/kerick/AndroidStudioProjects/Group2-DataStorage/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_3d5cb51433b6cda8533f4253dcc8386ddff2371f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kerick/AndroidStudioProjects/Group2-DataStorage/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="00d4c8eebf2b681073c72a26bd0849549e51c7cb">
+        <dex dex="/home/kerick/AndroidStudioProjects/Group2-DataStorage/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.1_1e3e378705c3ffcc02bea43e6e36cf3da17fec5f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kerick/AndroidStudioProjects/Group2-DataStorage/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/kerick/AndroidStudioProjects/Group2-DataStorage/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.1_021912b3f5815b4b8de7f1a8607ac81d7482a0f7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kerick/AndroidStudioProjects/Group2-DataStorage/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51eba4a4dd73044f90a9d58dd7ca34adbebfcf4e">
+        <dex dex="/home/kerick/AndroidStudioProjects/Group2-DataStorage/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.1_68da5fc89f6e8f0528e3d742b2f905cdf53fb30d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kerick/AndroidStudioProjects/Group2-DataStorage/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="772bed2d992b67b9d0327f766cc95cd63031dcd3">
+        <dex dex="/home/kerick/AndroidStudioProjects/Group2-DataStorage/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.1_b41389bc2c14d8fd827a01160145e2b77e6ec88a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kerick/AndroidStudioProjects/Group2-DataStorage/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b24e1c688744078e1fa833ffadf696794761bbe5">
+        <dex dex="/home/kerick/AndroidStudioProjects/Group2-DataStorage/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.1_1e2ec6d03fcf1530dcc468728b57e9c4f3ad9920/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kerick/AndroidStudioProjects/Group2-DataStorage/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="26c6eef571592c91f29e56fda0bac73321de0c92">
+        <dex dex="/home/kerick/AndroidStudioProjects/Group2-DataStorage/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.1_46ac5fb0f6156d8e8aac6e24d48b9773f1555877/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kerick/AndroidStudioProjects/Group2-DataStorage/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="bc7e99e8d0fc279a05aa91378530f467ad62d443">
+        <dex dex="/home/kerick/AndroidStudioProjects/Group2-DataStorage/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.1_e7ff34c493454e9a6c13bfbce6ea73b4fda3933e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kerick/AndroidStudioProjects/Group2-DataStorage/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/kerick/AndroidStudioProjects/Group2-DataStorage/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_226e30d3c5759b22db9f07259ff9b5413ffb5322/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kerick/AndroidStudioProjects/Group2-DataStorage/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5b7145fb34779b6639147b8f2f8dd77c0db771b">
+        <dex dex="/home/kerick/AndroidStudioProjects/Group2-DataStorage/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_a974efb07c605ee14668b7e2629ac2656cfb0f9c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kerick/AndroidStudioProjects/Group2-DataStorage/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f83b00041ecfba705603fec40363416c7de69719">
+        <dex dex="/home/kerick/AndroidStudioProjects/Group2-DataStorage/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_23f885d66b0cf4a0fe3951dd62007a201a5ee44f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kerick/AndroidStudioProjects/Group2-DataStorage/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f7ac4b327fdb9e2ee386f5adc46164927658de4b">
+        <dex dex="/home/kerick/AndroidStudioProjects/Group2-DataStorage/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.1_c028746d6f4545887630d3f48ff72d1c45c16a9e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kerick/AndroidStudioProjects/Group2-DataStorage/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6a1479afe9f1b3645e1cd9a87318976893472818">
+        <dex dex="/home/kerick/AndroidStudioProjects/Group2-DataStorage/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.1_0c5c36c831ecc0c387114d6dfd83978750b7d298/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/kerick/AndroidStudioProjects/Group2-DataStorage/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/jars/libs/internal_impl-25.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3af8cc51ef7088e56f132780da8c0bd858b6a6ad">
+        <dex dex="/home/kerick/AndroidStudioProjects/Group2-DataStorage/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.1_d754db1897f18b02e1381ab8e226b4c89b83c7a1/classes.dex" />
+    </item>
+
+</items>

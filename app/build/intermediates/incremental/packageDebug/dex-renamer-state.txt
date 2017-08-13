@@ -1,0 +1,7 @@
+#Sun Aug 13 09:39:05 WAT 2017
+base.0=/home/kerick/AndroidStudioProjects/Group2-DataStorage/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_def217855e6b10b749b53095c2d0ad997888819b
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/kerick/AndroidStudioProjects/Group2-DataStorage/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_cb5ecd0d7bcde1cd55485bc7458b6da3b180ea3b/classes.dex
+base.1=/home/kerick/AndroidStudioProjects/Group2-DataStorage/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_cb5ecd0d7bcde1cd55485bc7458b6da3b180ea3b
+file.0=/home/kerick/AndroidStudioProjects/Group2-DataStorage/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_def217855e6b10b749b53095c2d0ad997888819b/classes.dex

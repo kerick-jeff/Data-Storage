@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_about"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.kerick.group2_datastorage.AboutActivity"
+    android:background="@android:color/white">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:text="@string/header_title"
+        android:layout_height="75dp"
+        android:textSize="36sp"
+        android:gravity="center"
+        android:background="@color/group2_light_gray"
+        android:layout_margin="16dp"
+        android:id="@+id/textViewHeader" />
+
+    <ListView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textViewHeader"
+        android:id="@+id/listViewNames"
+        android:layout_margin="10dp" />
+
+    <TextView
+        android:text="@string/footer_title"
+        android:layout_width="match_parent"
+        android:id="@+id/textViewFooter"
+        android:textSize="36sp"
+        android:background="@color/group2_light_gray"
+        android:layout_alignParentBottom="true"
+        android:gravity="center"
+        android:layout_height="100dp" />
+</RelativeLayout>

@@ -1,0 +1,97 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/kerick/AndroidStudioProjects/Group2-DataStorage/app/src/main/AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from /home/kerick/AndroidStudioProjects/Group2-DataStorage/app/src/main/AndroidManifest.xml:3:5-44
+		INJECTED from /home/kerick/AndroidStudioProjects/Group2-DataStorage/app/src/main/AndroidManifest.xml
+		INJECTED from /home/kerick/AndroidStudioProjects/Group2-DataStorage/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/kerick/AndroidStudioProjects/Group2-DataStorage/app/src/main/AndroidManifest.xml
+		INJECTED from /home/kerick/AndroidStudioProjects/Group2-DataStorage/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/kerick/AndroidStudioProjects/Group2-DataStorage/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/kerick/AndroidStudioProjects/Group2-DataStorage/app/src/main/AndroidManifest.xml
+		INJECTED from /home/kerick/AndroidStudioProjects/Group2-DataStorage/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/kerick/AndroidStudioProjects/Group2-DataStorage/app/src/main/AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from /home/kerick/AndroidStudioProjects/Group2-DataStorage/app/src/main/AndroidManifest.xml:5:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/kerick/AndroidStudioProjects/Group2-DataStorage/app/src/main/AndroidManifest.xml:6:5-80
+	android:name
+		ADDED from /home/kerick/AndroidStudioProjects/Group2-DataStorage/app/src/main/AndroidManifest.xml:6:22-77
+application
+ADDED from /home/kerick/AndroidStudioProjects/Group2-DataStorage/app/src/main/AndroidManifest.xml:8:5-26:19
+MERGED from [com.android.support:appcompat-v7:25.0.1] /home/kerick/AndroidStudioProjects/Group2-DataStorage/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.0.1] /home/kerick/AndroidStudioProjects/Group2-DataStorage/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.0.1] /home/kerick/AndroidStudioProjects/Group2-DataStorage/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.0.1] /home/kerick/AndroidStudioProjects/Group2-DataStorage/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.0.1] /home/kerick/AndroidStudioProjects/Group2-DataStorage/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.0.1] /home/kerick/AndroidStudioProjects/Group2-DataStorage/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.0.1] /home/kerick/AndroidStudioProjects/Group2-DataStorage/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-vector-drawable:25.0.1] /home/kerick/AndroidStudioProjects/Group2-DataStorage/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] /home/kerick/AndroidStudioProjects/Group2-DataStorage/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /home/kerick/AndroidStudioProjects/Group2-DataStorage/app/src/main/AndroidManifest.xml:11:9-41
+	android:supportsRtl
+		ADDED from /home/kerick/AndroidStudioProjects/Group2-DataStorage/app/src/main/AndroidManifest.xml:12:9-35
+	android:allowBackup
+		ADDED from /home/kerick/AndroidStudioProjects/Group2-DataStorage/app/src/main/AndroidManifest.xml:9:9-35
+	android:icon
+		ADDED from /home/kerick/AndroidStudioProjects/Group2-DataStorage/app/src/main/AndroidManifest.xml:10:9-43
+	android:theme
+		ADDED from /home/kerick/AndroidStudioProjects/Group2-DataStorage/app/src/main/AndroidManifest.xml:13:9-40
+activity#com.kerick.group2_datastorage.DataStorageActivity
+ADDED from /home/kerick/AndroidStudioProjects/Group2-DataStorage/app/src/main/AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from /home/kerick/AndroidStudioProjects/Group2-DataStorage/app/src/main/AndroidManifest.xml:14:19-54
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/kerick/AndroidStudioProjects/Group2-DataStorage/app/src/main/AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from /home/kerick/AndroidStudioProjects/Group2-DataStorage/app/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /home/kerick/AndroidStudioProjects/Group2-DataStorage/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/kerick/AndroidStudioProjects/Group2-DataStorage/app/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /home/kerick/AndroidStudioProjects/Group2-DataStorage/app/src/main/AndroidManifest.xml:18:27-74
+activity#com.kerick.group2_datastorage.PreferencesActivity
+ADDED from /home/kerick/AndroidStudioProjects/Group2-DataStorage/app/src/main/AndroidManifest.xml:21:9-57
+	android:name
+		ADDED from /home/kerick/AndroidStudioProjects/Group2-DataStorage/app/src/main/AndroidManifest.xml:21:19-54
+activity#com.kerick.group2_datastorage.AboutActivity
+ADDED from /home/kerick/AndroidStudioProjects/Group2-DataStorage/app/src/main/AndroidManifest.xml:22:9-51
+	android:name
+		ADDED from /home/kerick/AndroidStudioProjects/Group2-DataStorage/app/src/main/AndroidManifest.xml:22:19-48
+activity#com.kerick.group2_datastorage.InternalStorageActivity
+ADDED from /home/kerick/AndroidStudioProjects/Group2-DataStorage/app/src/main/AndroidManifest.xml:23:9-61
+	android:name
+		ADDED from /home/kerick/AndroidStudioProjects/Group2-DataStorage/app/src/main/AndroidManifest.xml:23:19-58
+activity#com.kerick.group2_datastorage.ExternalStorageActivity
+ADDED from /home/kerick/AndroidStudioProjects/Group2-DataStorage/app/src/main/AndroidManifest.xml:24:9-61
+	android:name
+		ADDED from /home/kerick/AndroidStudioProjects/Group2-DataStorage/app/src/main/AndroidManifest.xml:24:19-58
+activity#com.kerick.group2_datastorage.SavingStateActivity
+ADDED from /home/kerick/AndroidStudioProjects/Group2-DataStorage/app/src/main/AndroidManifest.xml:25:9-66
+	android:name
+		ADDED from /home/kerick/AndroidStudioProjects/Group2-DataStorage/app/src/main/AndroidManifest.xml:25:19-54
+uses-sdk
+INJECTED from /home/kerick/AndroidStudioProjects/Group2-DataStorage/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.0.1] /home/kerick/AndroidStudioProjects/Group2-DataStorage/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.0.1] /home/kerick/AndroidStudioProjects/Group2-DataStorage/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.1/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-compat:25.0.1] /home/kerick/AndroidStudioProjects/Group2-DataStorage/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:25.0.1] /home/kerick/AndroidStudioProjects/Group2-DataStorage/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.1/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.0.1] /home/kerick/AndroidStudioProjects/Group2-DataStorage/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.1/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.0.1] /home/kerick/AndroidStudioProjects/Group2-DataStorage/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.1/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-fragment:25.0.1] /home/kerick/AndroidStudioProjects/Group2-DataStorage/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.1/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-vector-drawable:25.0.1] /home/kerick/AndroidStudioProjects/Group2-DataStorage/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.1/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:animated-vector-drawable:25.0.1] /home/kerick/AndroidStudioProjects/Group2-DataStorage/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.1/AndroidManifest.xml:20:5-44
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.0.1] /home/kerick/AndroidStudioProjects/Group2-DataStorage/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.1/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/kerick/AndroidStudioProjects/Group2-DataStorage/app/src/main/AndroidManifest.xml
+		INJECTED from /home/kerick/AndroidStudioProjects/Group2-DataStorage/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/kerick/AndroidStudioProjects/Group2-DataStorage/app/src/main/AndroidManifest.xml
+		INJECTED from /home/kerick/AndroidStudioProjects/Group2-DataStorage/app/src/main/AndroidManifest.xml

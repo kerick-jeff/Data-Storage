@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Group2 - Data Storage</string>
+    <string name="header_title">Data Storage</string>
+    <string name="footer_title">Group2\nData Storage</string>
+    <string name="string_hello">Hello</string>
+    <string name="name_hint">Please enter your name</string>
+    <string name="data_hint">Enter text to save</string>
+    <string name="save">Save</string>
+    <string name="reset">Reset</string>
+    <string name="write">Write to file</string>
+    <string name="read">Read from file</string>
+    <string name="count">Count</string>
+    <string-array name="menu_items">
+        <item>Shared Preferences demo</item>
+        <item>Files - Internal Storage demo</item>
+        <item>Files - External Storage demo</item>
+        <item>Saving State demo</item>
+        <item>About Group2</item>
+    </string-array>
+    <string-array name="names">
+        <item>Fru Kerick Jheff Buahab\nFE14A083</item>
+        <item>Tafang Joshua Ngufor Nkongho\nFE14201</item>
+        <item>Tigpezeghe Rodrige Kwenchu\nFE14A214</item>
+        <item>James Takor Ako-Egbe JR.\nFE13A097</item>
+    </string-array>
+</resources>
