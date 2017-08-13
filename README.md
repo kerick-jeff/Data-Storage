@@ -7,24 +7,27 @@ School project. Java mobile programming course, Data Storage. Group work
 
 		DEPARTMENT OF COMPUTER ENGINEERING
 
-#Course Title: Java Mobile Programming
+Course Title: Java Mobile Programming
 
-#Course Code: CEF402
+Course Code: CEF402
 
-#Course Instructor: Mme. Fani Michelle
+Course Instructor: Mme. Fani Michelle
 
-#GROUP 2
+GROUP 2: Data Storage(Files, Saving State and Preferences)
 
-		Data Storage(Files, Saving State and Preferences)
+		Group Members
 
-#Names of group members				Matriculation Number
+1. Fru Kerick Jheff Buahab
+   FE14A083
 
-1. Fru Kerick Jheff Buahab			FE14A083
+2. Tigpezeghe Rodrige Kwenchu
+   FE14A214
 
-2. Tigpezeghe Rodrige Kwenchu			FE14A214
+3. Tafang Joshua Ngufor Nkongho
+   FE14A201
 
-3. Tafang Joshua Ngufor Nkongho			FE14A201
+4. James Takor Ako-Egbe JR.
+   FE13A097
 
-4. James Takor Ako-Egbe JR. 			FE13A097
 
 
